@@ -1,0 +1,108 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+
+    background-color: yellow;
+    border: 1px solid yellow;
+    border-radius:10px;
+    margin-bottom:10px;
+}
+
+
+header img {
+
+    padding: 15px;       
+
+}
+
+h1{
+
+    text-align: center;
+
+}
+
+h1 i{
+    
+    border:3px solid orange;
+    padding:5px;
+}
+
+footer {
+
+    border:3px solid orangered;
+    padding:9px;
+    text-align:center;
+}
+
+
+
+footer p {
+
+    border:2px solid orange;
+    text-align:center;
+
+}
+
+nav {
+    
+    background-color:darkgreen;  
+    text-align:center;
+
+}
+
+nav a {
+
+    font-size:20px;
+    margin:20px;
+    color:white;
+    text-decoration:none;
+
+}
+
+select {
+    padding:10px;
+    margin:10px;
+    background-color:#5e9c31;
+    color:white;
+    font-size:20px;
+}
+
+.pypzemli {
+    border:1px solid rgb(124, 19, 19);
+    background-color:rgb(124, 19, 19);  
+    color:aqua;  
+    border-radius:8px;
+    padding:10px;
+}
+
+main {
+    padding:10px;
+}
+
+main p {
+
+    font-size:20px;
+
+}
+
+p b {
+
+    font-size:22px;
+
+}
+
+footer p {
+
+    font-size:18px;
+
+}
+
+
+h2 {
+
+    color:blue;
+
+}
+
